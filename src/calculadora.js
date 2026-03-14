@@ -6,5 +6,9 @@ class Calculadora {
     subtrair(a, b){
         return a - b;
     }
+
+    potencia (base, expoente){
+        return Math.pow(base, expoente);
+    }
     
 }
