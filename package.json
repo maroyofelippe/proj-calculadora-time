@@ -1,11 +1,12 @@
 {
   "name": "proj-calc-time",
   "version": "1.0.0",
-  "description": "Projeto de Calculadora para uso em grupo no github",
+  "description": "Projeto de Calculadora básica para uso em grupo no github",
   "keywords": [
     "calculadora",
     "git",
     "nodejs",
+    "desenvolvimento de sistemas",
     "github"
   ],
   "license": "ISC",
