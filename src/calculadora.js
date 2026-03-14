@@ -14,5 +14,8 @@ class Calculadora {
 
         return a / b;
     }
+    multiplicar(a, b){
+        return a * b;
+    }
     
 }
