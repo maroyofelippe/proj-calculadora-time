@@ -1,0 +1,18 @@
+{
+  "name": "proj-calc-time",
+  "version": "1.0.0",
+  "description": "Projeto de Calculadora para uso em grupo no github",
+  "keywords": [
+    "calculadora",
+    "git",
+    "nodejs",
+    "github"
+  ],
+  "license": "ISC",
+  "author": "prof Marco Royo",
+  "type": "commonjs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
